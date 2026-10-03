@@ -2,8 +2,6 @@
 
 > *Six small minds argue over every domain before you spend a renewal fee.*
 
-**Status: concept and research stage. Nothing below is built yet. Sections marked "planned" describe the intended product.**
-
 ---
 
 ## The abstract
